@@ -3,7 +3,8 @@ body{
     padding: 0;
     height: 100vh;
     font-family: 'Roboto', sans-serif;
-    background: rgb(255,255,255);
+    background: rgb(96,104,255);
+    background: linear-gradient(90deg, rgba(96,104,255,1) 0%, rgba(0,172,255,0.332252358490566) 100%, rgba(19,47,145,1) 100%);
 }    
 
 nav{
