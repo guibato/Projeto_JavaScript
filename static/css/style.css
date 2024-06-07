@@ -88,7 +88,7 @@ a{
     border-collapse: separate;
     border-spacing: 0 15px;
     text-align: center;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
 }
 
 #TableProducts th, #TableProducts td {
